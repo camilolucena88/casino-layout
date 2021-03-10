@@ -1,10 +1,24 @@
-#Get started
+# Get started
 
 First -> copy the .env-example and add the database credentials.
 
-#Makefile
+# Makefile
 
+```make backend```
 
+```make update```
+
+```make install```
+
+```make up```
+
+```make serve```
+
+# Endpoint
+
+localhost:8080
+
+localhost:81/api/games
 
 # docker-compose-laravel
 A pretty simplified Docker Compose workflow that sets up a LEMP network of containers for local Laravel development. You can view the full article that inspired this repo [here](https://dev.to/aschmelyun/the-beauty-of-docker-for-local-laravel-development-13c0).
